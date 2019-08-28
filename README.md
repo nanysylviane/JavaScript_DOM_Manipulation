@@ -1,5 +1,10 @@
 # JavaScript and DOM Manipulation
 
+Our site is published at https://nanysylviane.github.io/JavaScript_DOM_Manipulation
+
+
+
+
 ## Background
 
 Our aims in this project is to to write code that will create a table dynamically
