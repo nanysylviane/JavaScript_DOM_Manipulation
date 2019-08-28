@@ -11,7 +11,6 @@ Our aims in this project is to to write code that will create a table dynamicall
 
 (StarterCode/static/js/data.js). his project allows users to filter the data for specific values using JavaScript, HTML, and CSS, and D3.js."
 
-The website contains a visualization dashboard with 7 pages and corresponding explanations. It was built using Bootstrap and CSS and deployed with Heroku.
 ## Dataset
 
 * [UFO Sightings Data](https://gt.bootcampcontent.com/GT-Coding-Boot-Camp/GTATL201902DATA3/blob/master/14-Intro-To-JavaScript/Homework/static/js/data.js)
